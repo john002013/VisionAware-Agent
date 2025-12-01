@@ -24,11 +24,11 @@ The agent processes visual data using a custom YOLO computer vision pipeline bui
 
 3. The custom YOLO pipeline:
 
-  i. Captures a frame
+  1. Captures a frame
 
-  ii. Runs YOLOv8 inference
+  2. Runs YOLOv8 inference
 
-  iii. Extracts object labels & counts
+  3. Extracts object labels & counts
 
 4. LangGraph processes the results
 
